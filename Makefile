@@ -46,6 +46,7 @@ build:
 	@make angularjs
 	@make jquery
 	@make less
+	@echo "Fim <3"
 
 angularjs:
 	
